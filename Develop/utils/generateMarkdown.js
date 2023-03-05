@@ -41,12 +41,12 @@ ${data.link}
 ## Table of Contents
 * [Installation] (https://github.com/${data.creator}/README_generator_npm/tree/main/Develop/newFile#installation);
 });)
-* [Dependencies]
-* [Usage] (#usage)
-* [License] (#license)
-* [Contributors] (#contributors)
-* [Tests] (*tests)
-* [Questions] (*questions)
+* [Dependencies] (https://github.com/${data.creator}/README_generator_npm/tree/main/Develop/newFile#dependencies)
+* [Usage] (https://github.com/${data.creator}/README_generator_npm/tree/main/Develop/newFile#usage)
+* [License] (https://github.com/${data.creator}/README_generator_npm/tree/main/Develop/newFile#lic)
+* [Contributors] (https://github.com/${data.contributors}/README_generator_npm/tree/main/Develop/newFile#contributors)
+* [Tests] (https://github.com/${data.creator}/README_generator_npm/tree/main/Develop/newFile#tests)
+* [Questions] (https://github.com/${data.questions}/README_generator_npm/tree/main/Develop/newFile#questions)
 ## Installation
 ${data.installation}
 ## Dependencies
