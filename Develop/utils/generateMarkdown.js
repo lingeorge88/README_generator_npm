@@ -39,7 +39,8 @@ ${data.link}
 ## Screenshot
 ![alt-text](${data.screenshot})
 ## Table of Contents
-* [Installation] (#installation)
+* [Installation] (https://github.com/${data.creator}/README_generator_npm/tree/main/Develop/newFile#installation);
+});)
 * [Dependencies]
 * [Usage] (#usage)
 * [License] (#license)
@@ -59,7 +60,7 @@ ${data.contributors}
 ## Tests
 ${data.test}
 ## Questions
-Please send your questions [here](mailto:${data.email}?subject=[GitHub]%20Dev%20Connect) or visit [github/${data.creator}](https://github.com/${data.creator}).
+Please send your questions to ${data.email} or visit [github/${data.creator}](https://github.com/${data.creator}).
 `;
 }
 
