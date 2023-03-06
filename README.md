@@ -29,6 +29,7 @@ node index.js
 * Answer the series of prompts in the CLI to record responses for the README file
 * A README file with user inputs  will be generated in the newFile folder at the end of the prompts
 * Follow this link to a Youtube video with demonstrations on how to run the application: https://youtu.be/wQYn3OJY81g
+* In order for the links in the Table of Contents to work the user must upload their new repository to Github due to markdown documentation limitations
 
 ## Authors
 
